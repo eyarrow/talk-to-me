@@ -1,0 +1,248 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/elizabeth/repos/talk-to-me/API/API.csproj": {}
+  },
+  "projects": {
+    "/home/elizabeth/repos/talk-to-me/API/API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/elizabeth/repos/talk-to-me/API/API.csproj",
+        "projectName": "API",
+        "projectPath": "/home/elizabeth/repos/talk-to-me/API/API.csproj",
+        "packagesPath": "/home/elizabeth/.nuget/packages/",
+        "outputPath": "/home/elizabeth/repos/talk-to-me/API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/elizabeth/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/elizabeth/repos/talk-to-me/Application/Application.csproj": {
+                "projectPath": "/home/elizabeth/repos/talk-to-me/Application/Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/elizabeth/repos/talk-to-me/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/elizabeth/repos/talk-to-me/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/home/elizabeth/repos/talk-to-me/Application/Application.csproj",
+        "packagesPath": "/home/elizabeth/.nuget/packages/",
+        "outputPath": "/home/elizabeth/repos/talk-to-me/Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/elizabeth/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/elizabeth/repos/talk-to-me/Domain/Domain.csproj": {
+                "projectPath": "/home/elizabeth/repos/talk-to-me/Domain/Domain.csproj"
+              },
+              "/home/elizabeth/repos/talk-to-me/Persistence/Persistence.csproj": {
+                "projectPath": "/home/elizabeth/repos/talk-to-me/Persistence/Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/elizabeth/repos/talk-to-me/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/elizabeth/repos/talk-to-me/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/home/elizabeth/repos/talk-to-me/Domain/Domain.csproj",
+        "packagesPath": "/home/elizabeth/.nuget/packages/",
+        "outputPath": "/home/elizabeth/repos/talk-to-me/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/elizabeth/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/elizabeth/repos/talk-to-me/Persistence/Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/elizabeth/repos/talk-to-me/Persistence/Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "/home/elizabeth/repos/talk-to-me/Persistence/Persistence.csproj",
+        "packagesPath": "/home/elizabeth/.nuget/packages/",
+        "outputPath": "/home/elizabeth/repos/talk-to-me/Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/elizabeth/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/elizabeth/repos/talk-to-me/Domain/Domain.csproj": {
+                "projectPath": "/home/elizabeth/repos/talk-to-me/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
