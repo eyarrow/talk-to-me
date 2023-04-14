@@ -1,0 +1,15 @@
+/home/elizabeth/repos/talk-to-me/Persistence/bin/Debug/net7.0/Persistence.deps.json
+/home/elizabeth/repos/talk-to-me/Persistence/bin/Debug/net7.0/Persistence.dll
+/home/elizabeth/repos/talk-to-me/Persistence/bin/Debug/net7.0/Persistence.pdb
+/home/elizabeth/repos/talk-to-me/Persistence/bin/Debug/net7.0/Domain.dll
+/home/elizabeth/repos/talk-to-me/Persistence/bin/Debug/net7.0/Domain.pdb
+/home/elizabeth/repos/talk-to-me/Persistence/obj/Debug/net7.0/Persistence.csproj.AssemblyReference.cache
+/home/elizabeth/repos/talk-to-me/Persistence/obj/Debug/net7.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/elizabeth/repos/talk-to-me/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfoInputs.cache
+/home/elizabeth/repos/talk-to-me/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfo.cs
+/home/elizabeth/repos/talk-to-me/Persistence/obj/Debug/net7.0/Persistence.csproj.CoreCompileInputs.cache
+/home/elizabeth/repos/talk-to-me/Persistence/obj/Debug/net7.0/Persistence.csproj.CopyComplete
+/home/elizabeth/repos/talk-to-me/Persistence/obj/Debug/net7.0/Persistence.dll
+/home/elizabeth/repos/talk-to-me/Persistence/obj/Debug/net7.0/refint/Persistence.dll
+/home/elizabeth/repos/talk-to-me/Persistence/obj/Debug/net7.0/Persistence.pdb
+/home/elizabeth/repos/talk-to-me/Persistence/obj/Debug/net7.0/ref/Persistence.dll

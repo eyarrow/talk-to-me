@@ -1,0 +1,12 @@
+/home/elizabeth/repos/talk-to-me/Domain/bin/Debug/net7.0/Domain.deps.json
+/home/elizabeth/repos/talk-to-me/Domain/bin/Debug/net7.0/Domain.dll
+/home/elizabeth/repos/talk-to-me/Domain/bin/Debug/net7.0/Domain.pdb
+/home/elizabeth/repos/talk-to-me/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/home/elizabeth/repos/talk-to-me/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/elizabeth/repos/talk-to-me/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/home/elizabeth/repos/talk-to-me/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/home/elizabeth/repos/talk-to-me/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/home/elizabeth/repos/talk-to-me/Domain/obj/Debug/net7.0/Domain.dll
+/home/elizabeth/repos/talk-to-me/Domain/obj/Debug/net7.0/refint/Domain.dll
+/home/elizabeth/repos/talk-to-me/Domain/obj/Debug/net7.0/Domain.pdb
+/home/elizabeth/repos/talk-to-me/Domain/obj/Debug/net7.0/ref/Domain.dll

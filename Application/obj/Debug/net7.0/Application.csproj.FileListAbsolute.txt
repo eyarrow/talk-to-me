@@ -1,0 +1,17 @@
+/home/elizabeth/repos/talk-to-me/Application/bin/Debug/net7.0/Application.deps.json
+/home/elizabeth/repos/talk-to-me/Application/bin/Debug/net7.0/Application.dll
+/home/elizabeth/repos/talk-to-me/Application/bin/Debug/net7.0/Application.pdb
+/home/elizabeth/repos/talk-to-me/Application/bin/Debug/net7.0/Domain.dll
+/home/elizabeth/repos/talk-to-me/Application/bin/Debug/net7.0/Persistence.dll
+/home/elizabeth/repos/talk-to-me/Application/bin/Debug/net7.0/Domain.pdb
+/home/elizabeth/repos/talk-to-me/Application/bin/Debug/net7.0/Persistence.pdb
+/home/elizabeth/repos/talk-to-me/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+/home/elizabeth/repos/talk-to-me/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/elizabeth/repos/talk-to-me/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+/home/elizabeth/repos/talk-to-me/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+/home/elizabeth/repos/talk-to-me/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+/home/elizabeth/repos/talk-to-me/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+/home/elizabeth/repos/talk-to-me/Application/obj/Debug/net7.0/Application.dll
+/home/elizabeth/repos/talk-to-me/Application/obj/Debug/net7.0/refint/Application.dll
+/home/elizabeth/repos/talk-to-me/Application/obj/Debug/net7.0/Application.pdb
+/home/elizabeth/repos/talk-to-me/Application/obj/Debug/net7.0/ref/Application.dll
